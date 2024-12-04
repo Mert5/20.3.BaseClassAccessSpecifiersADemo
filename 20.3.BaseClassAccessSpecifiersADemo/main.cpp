@@ -9,7 +9,7 @@
 
 int main(){
 
-    Person person1("Mert Cullukcu",31,"Bulursa gelsin");
+    Person person1("John Devon",31,"Bulursa gelsin");
     std::cout << "Information of the " << person1 << std::endl;
 
     std::cout << std::endl;
